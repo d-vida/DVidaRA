@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: f8ac2fcc6011857418de260069f8e758
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: antebraco dir
+    100004: antebraco esq
+    100006: biceps dir
+    100008: biceps esq
+    100010: braco dir ponta
+    100012: braco esq ponta
+    100014: cabeca
+    100016: "cabe\xE7a topo"
+    100018: caneca
+    100020: coelho
+    100022: coluna 1
+    100024: coluna 2
+    100026: coluna 3
+    100028: contorno
+    100030: contorno camera
+    100032: controle  orelha dir 1
+    100034: controle braco dir
+    100036: controle braco esq
+    100038: controle cabeca
+    100040: controle cintura
+    100042: controle dedao dir
+    100044: controle dedao esq
+    100046: controle dedos dir
+    100048: controle dedos dir 1
+    100050: controle dedos esq
+    100052: controle dedos esq 1
+    100054: controle mestre
+    100056: controle olho dir
+    100058: controle olho esq
+    100060: controle olhos
+    100062: controle ombro dir
+    100064: controle ombro esq
+    100066: controle orelha dir 2
+    100068: controle orelha esq 1
+    100070: controle orelha esq 2
+    100072: controle pe dir
+    100074: controle pe esq
+    100076: controle perna dir
+    100078: controle perna dir 1
+    100080: controle pescoco
+    100082: controle posicao
+    100084: controle pulso dir
+    100086: controle pulso esq
+    100088: controle rabo
+    100090: dedos dir
+    100092: dedos esq
+    100094: dentes
+    100096: falange dir 1
+    100098: falange dir 1 ponta
+    100100: falange dir 2
+    100102: falange dir 2 ponta
+    100104: falange esq 1
+    100106: falange esq 1 ponta
+    100108: falange esq 2
+    100110: falange esq 2 ponta
+    100112: femur dir
+    100114: femur esq
+    100116: flash camera
+    100118: fundo
+    100120: fundo cinza
+    100122: fundo insta
+    100124: infinito
+    100126: infinito laranja
+    100128: insta
+    100130: lente camera
+    100132: logo
+    100134: logo 1
+    100136: mestre
+    100138: olho dir
+    100140: olho esq
+    100142: ombro dir
+    100144: ombro esq
+    100146: orelha dir 1
+    100148: orelha dir 2
+    100150: orelha dir 3
+    100152: orelha dir ponta
+    100154: orelha esq 1
+    100156: orelha esq 2
+    100158: orelha esq 3
+    100160: orelha esq ponta
+    100162: pubis dir
+    100164: pubis esq
+    100166: pulso dir
+    100168: pulso esq
+    100170: rabo
+    100172: rabo ponta
+    100174: siga a dvida
+    100176: tarsico dir
+    100178: tarsico esq
+    100180: Text001
+    100182: tibia dir
+    100184: tibia esq
+    400000: //RootNode
+    400002: antebraco dir
+    400004: antebraco esq
+    400006: biceps dir
+    400008: biceps esq
+    400010: braco dir ponta
+    400012: braco esq ponta
+    400014: cabeca
+    400016: "cabe\xE7a topo"
+    400018: caneca
+    400020: coelho
+    400022: coluna 1
+    400024: coluna 2
+    400026: coluna 3
+    400028: contorno
+    400030: contorno camera
+    400032: controle  orelha dir 1
+    400034: controle braco dir
+    400036: controle braco esq
+    400038: controle cabeca
+    400040: controle cintura
+    400042: controle dedao dir
+    400044: controle dedao esq
+    400046: controle dedos dir
+    400048: controle dedos dir 1
+    400050: controle dedos esq
+    400052: controle dedos esq 1
+    400054: controle mestre
+    400056: controle olho dir
+    400058: controle olho esq
+    400060: controle olhos
+    400062: controle ombro dir
+    400064: controle ombro esq
+    400066: controle orelha dir 2
+    400068: controle orelha esq 1
+    400070: controle orelha esq 2
+    400072: controle pe dir
+    400074: controle pe esq
+    400076: controle perna dir
+    400078: controle perna dir 1
+    400080: controle pescoco
+    400082: controle posicao
+    400084: controle pulso dir
+    400086: controle pulso esq
+    400088: controle rabo
+    400090: dedos dir
+    400092: dedos esq
+    400094: dentes
+    400096: falange dir 1
+    400098: falange dir 1 ponta
+    400100: falange dir 2
+    400102: falange dir 2 ponta
+    400104: falange esq 1
+    400106: falange esq 1 ponta
+    400108: falange esq 2
+    400110: falange esq 2 ponta
+    400112: femur dir
+    400114: femur esq
+    400116: flash camera
+    400118: fundo
+    400120: fundo cinza
+    400122: fundo insta
+    400124: infinito
+    400126: infinito laranja
+    400128: insta
+    400130: lente camera
+    400132: logo
+    400134: logo 1
+    400136: mestre
+    400138: olho dir
+    400140: olho esq
+    400142: ombro dir
+    400144: ombro esq
+    400146: orelha dir 1
+    400148: orelha dir 2
+    400150: orelha dir 3
+    400152: orelha dir ponta
+    400154: orelha esq 1
+    400156: orelha esq 2
+    400158: orelha esq 3
+    400160: orelha esq ponta
+    400162: pubis dir
+    400164: pubis esq
+    400166: pulso dir
+    400168: pulso esq
+    400170: rabo
+    400172: rabo ponta
+    400174: siga a dvida
+    400176: tarsico dir
+    400178: tarsico esq
+    400180: Text001
+    400182: tibia dir
+    400184: tibia esq
+    2100000: 01 - Default
+    2100002: No Name
+    2100004: 02 - Default
+    2100006: infinito branco
+    2100008: infinito laranja
+    2100010: fundo escuro
+    2100012: fundo
+    2100014: 03 - Default
+    2300000: caneca
+    2300002: contorno
+    2300004: contorno camera
+    2300006: controle rabo
+    2300008: dentes
+    2300010: flash camera
+    2300012: fundo
+    2300014: fundo cinza
+    2300016: fundo insta
+    2300018: infinito
+    2300020: infinito laranja
+    2300022: lente camera
+    2300024: olho dir
+    2300026: olho esq
+    2300028: Text001
+    3300000: caneca
+    3300002: contorno
+    3300004: contorno camera
+    3300006: controle rabo
+    3300008: dentes
+    3300010: flash camera
+    3300012: fundo
+    3300014: fundo cinza
+    3300016: fundo insta
+    3300018: infinito
+    3300020: infinito laranja
+    3300022: lente camera
+    3300024: olho dir
+    3300026: olho esq
+    3300028: Text001
+    4300000: coelho
+    4300002: caneca
+    4300004: olho esq
+    4300006: olho dir
+    4300008: dentes
+    4300010: controle rabo
+    4300012: infinito
+    4300014: infinito laranja
+    4300016: fundo cinza
+    4300018: fundo
+    4300020: contorno
+    4300022: Text001
+    4300024: lente camera
+    4300026: flash camera
+    4300028: contorno camera
+    4300030: fundo insta
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: coelho
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

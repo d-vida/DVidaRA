@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: dc59774ce5e820f45a698060d9780da7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: antebraco dir
+    100002: antebraco esq
+    100004: biceps dir
+    100006: biceps esq
+    100008: braco dir ponta
+    100010: braco esq ponta
+    100012: cabeca
+    100014: "cabe\xE7a topo"
+    100016: coelho
+    100018: //RootNode
+    100020: coluna 1
+    100022: coluna 2
+    100024: coluna 3
+    100026: controle  orelha dir 1
+    100028: controle braco dir
+    100030: controle braco esq
+    100032: controle cabeca
+    100034: controle cintura
+    100036: controle dedao dir
+    100038: controle dedao esq
+    100040: controle dedos dir
+    100042: controle dedos dir 1
+    100044: controle dedos esq
+    100046: controle dedos esq 1
+    100048: controle mestre
+    100050: controle olho dir
+    100052: controle olho esq
+    100054: controle olhos
+    100056: controle ombro dir
+    100058: controle ombro esq
+    100060: controle orelha dir 2
+    100062: controle orelha esq 1
+    100064: controle orelha esq 2
+    100066: controle pe dir
+    100068: controle pe esq
+    100070: controle perna dir
+    100072: controle perna dir 1
+    100074: controle pescoco
+    100076: controle posicao
+    100078: controle pulso dir
+    100080: controle pulso esq
+    100082: controle rabo
+    100084: dedos dir
+    100086: dedos esq
+    100088: dentes
+    100090: falange dir 1
+    100092: falange dir 1 ponta
+    100094: falange dir 2
+    100096: falange dir 2 ponta
+    100098: falange esq 1
+    100100: falange esq 1 ponta
+    100102: falange esq 2
+    100104: falange esq 2 ponta
+    100106: femur dir
+    100108: femur esq
+    100110: mestre
+    100112: olho dir
+    100114: olho esq
+    100116: ombro dir
+    100118: ombro esq
+    100120: orelha dir 1
+    100122: orelha dir 2
+    100124: orelha dir 3
+    100126: orelha dir ponta
+    100128: orelha esq 1
+    100130: orelha esq 2
+    100132: orelha esq 3
+    100134: orelha esq ponta
+    100136: pubis dir
+    100138: pubis esq
+    100140: pulso dir
+    100142: pulso esq
+    100144: rabo
+    100146: rabo ponta
+    100148: tarsico dir
+    100150: tarsico esq
+    100152: tibia dir
+    100154: tibia esq
+    400000: antebraco dir
+    400002: antebraco esq
+    400004: biceps dir
+    400006: biceps esq
+    400008: braco dir ponta
+    400010: braco esq ponta
+    400012: cabeca
+    400014: "cabe\xE7a topo"
+    400016: coelho
+    400018: //RootNode
+    400020: coluna 1
+    400022: coluna 2
+    400024: coluna 3
+    400026: controle  orelha dir 1
+    400028: controle braco dir
+    400030: controle braco esq
+    400032: controle cabeca
+    400034: controle cintura
+    400036: controle dedao dir
+    400038: controle dedao esq
+    400040: controle dedos dir
+    400042: controle dedos dir 1
+    400044: controle dedos esq
+    400046: controle dedos esq 1
+    400048: controle mestre
+    400050: controle olho dir
+    400052: controle olho esq
+    400054: controle olhos
+    400056: controle ombro dir
+    400058: controle ombro esq
+    400060: controle orelha dir 2
+    400062: controle orelha esq 1
+    400064: controle orelha esq 2
+    400066: controle pe dir
+    400068: controle pe esq
+    400070: controle perna dir
+    400072: controle perna dir 1
+    400074: controle pescoco
+    400076: controle posicao
+    400078: controle pulso dir
+    400080: controle pulso esq
+    400082: controle rabo
+    400084: dedos dir
+    400086: dedos esq
+    400088: dentes
+    400090: falange dir 1
+    400092: falange dir 1 ponta
+    400094: falange dir 2
+    400096: falange dir 2 ponta
+    400098: falange esq 1
+    400100: falange esq 1 ponta
+    400102: falange esq 2
+    400104: falange esq 2 ponta
+    400106: femur dir
+    400108: femur esq
+    400110: mestre
+    400112: olho dir
+    400114: olho esq
+    400116: ombro dir
+    400118: ombro esq
+    400120: orelha dir 1
+    400122: orelha dir 2
+    400124: orelha dir 3
+    400126: orelha dir ponta
+    400128: orelha esq 1
+    400130: orelha esq 2
+    400132: orelha esq 3
+    400134: orelha esq ponta
+    400136: pubis dir
+    400138: pubis esq
+    400140: pulso dir
+    400142: pulso esq
+    400144: rabo
+    400146: rabo ponta
+    400148: tarsico dir
+    400150: tarsico esq
+    400152: tibia dir
+    400154: tibia esq
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2100004: No Name
+    2300000: controle rabo
+    2300002: dentes
+    2300004: olho dir
+    2300006: olho esq
+    3300000: controle rabo
+    3300002: dentes
+    3300004: olho dir
+    3300006: olho esq
+    4300000: coelho
+    4300002: olho esq
+    4300004: olho dir
+    4300006: dentes
+    4300008: controle rabo
+    7400000: "colho anima\xE7\xE3o"
+    9500000: //RootNode
+    13700000: coelho
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
